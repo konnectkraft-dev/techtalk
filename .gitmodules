@@ -1,0 +1,3 @@
+[submodule "python-mock-slide"]
+	path = python-mock-slide
+	url = git@github.com:konnectkraft-dev/python-mock-slide.git
