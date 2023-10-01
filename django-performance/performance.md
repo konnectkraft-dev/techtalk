@@ -62,3 +62,15 @@ serializer = ModelASerializer(qs, many=True) # doesn't make new SQL request for 
 return qs
 
 ```
+
+---
+
+## 🤠 Thankyou
+
+> Off to [arjan](https://github.com/arjansunar) for the stuff done in DMS.
+
+### 🧰 Tools used and references
+
+- [slides](https://maaslalani.com/slides/)
+- [graph-easy](https://metacpan.org/pod/Graph::Easy)
+- [django queryset](https://docs.djangoproject.com/en/3.2/topics/db/optimization/#understand-querysets)
