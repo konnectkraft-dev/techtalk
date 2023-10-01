@@ -65,11 +65,11 @@ return qs
 
 ---
 
-## 🤠 Thankyou
+# 🤠 Thankyou
 
 > Off to [arjan](https://github.com/arjansunar) for the stuff done in DMS.
 
-### 🧰 Tools used and references
+## 🧰 Tools used and references
 
 - [slides](https://maaslalani.com/slides/)
 - [graph-easy](https://metacpan.org/pod/Graph::Easy)
