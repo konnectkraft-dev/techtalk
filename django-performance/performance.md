@@ -1,10 +1,10 @@
-# Performance in Django
+# 🔥 Performance in Django
 
 > Its not needed until it does.
 
 ---
 
-## Lazy execution
+## 😴 Lazy execution
 
 In django, sql queries are not evaluated until they are iterated over.
 
@@ -19,7 +19,7 @@ print(q) # SQL hits
 
 ---
 
-## Isnt being lazy good for performance?
+## 🤔 Isnt being lazy good for performance?
 
 Being lazy might be thought of as a performance boost as you are only executing query when required. But this may lead
 to multiple queries being made to the database unknowingly.
@@ -42,7 +42,7 @@ return qs
 
 ---
 
-## Whats the problem?
+## 🤦 Whats the problem?
 
 ```
 ~~~graph-easy --as=boxart
@@ -52,7 +52,7 @@ return qs
 
 ---
 
-## Solution
+## ✅ Solution
 
 **Try to make a bigger SQL query.**
 
