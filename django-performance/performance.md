@@ -19,7 +19,7 @@ print(q) # SQL hits
 
 ---
 
-## 🤔 Isnt being lazy good for performance?
+## 🤔 Isn't being lazy good for performance?
 
 Being lazy might be thought of as a performance boost as you are only executing query when required. But this may lead
 to multiple queries being made to the database unknowingly.
